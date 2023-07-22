@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+
+.row-1{
+	display:flex;
+	justify-content:space-evenly;
+	
+}
+
+.row-2{
+	display:flex;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+}
+
+.row-3{
+	display:flex;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+}
+
+.row-4{
+	display:flex;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+}
+
